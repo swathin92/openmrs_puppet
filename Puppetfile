@@ -5,6 +5,9 @@ forge "http://forge.puppetlabs.com"
 #mod "puppetlabs/inifile",     '1.5.0'
 #mod "puppetlabs/stdlib",      '4.11.0'
 #mod "puppetlabs/concat",      '2.1.0'
+mod 'puppetlabs-java',         '1.6.0'
+mod 'puppetlabs-mysql', '3.10.0'
+mod 'puppetlabs-stdlib', '4.16.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
